@@ -3,10 +3,10 @@
 // @namespace    https://github.com/santakuta/NovelAI-Explore-Excel-Favorites-Saver
 // @homepageURL  https://github.com/santakuta/NovelAI-Explore-Excel-Favorites-Saver
 // @supportURL   https://github.com/santakuta/NovelAI-Explore-Excel-Favorites-Saver/issues
-// @version      1.0.0
+// @version      1.0.1
 // @description  NovelAI Explore の画像ポップアップ（タイトル・プロンプト・設定値・サムネイル）をお気に入りとして蓄積し、1つのExcelファイルにまとめてエクスポートします。（非公式・NovelAIとは無関係）
 // @license      MIT
-// @match        https://novelai.net/*
+// @match        https://novelai.net/explore/*
 // @require      https://cdn.jsdelivr.net/npm/exceljs@4.4.0/dist/exceljs.min.js
 // @grant        GM_getValue
 // @grant        GM_setValue

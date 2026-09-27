@@ -18,11 +18,17 @@ NovelAI の Explore（画像ギャラリー）で気に入った投稿を保存�
 
 <img width="30%" height="30%" alt="001" src="https://github.com/user-attachments/assets/5990de23-db01-41ed-bdc2-bfc97b0c137a" />　<img width="30%" height="30%" alt="002" src="https://github.com/user-attachments/assets/7b49efbf-be2d-483b-ab3f-4a277d29dbbf" />　<img width="30%" height="30%" alt="003" src="https://github.com/user-attachments/assets/f515ba56-bc73-451e-b146-425e1bde742e" />
 
-## インストール
+## インストール(Greasy Fork)
 
 1. ブラウザに [Tampermonkey](https://www.tampermonkey.net/) を入れる
-2. [NovelAI-Explore-Excel-Favorites-Saver.js](./NovelAI-Explore-Excel-Favorites-Saver.js) を開き、「Raw」ボタンを押す
-3. Tampermonkey のインストール画面が出るので「インストール」
+2. [NovelAI Explore → Excel お気に入り保存](https://greasyfork.org/ja/scripts/597686) を開き、「スクリプトをインストール」ボタンを押す
+
+## インストール(手動)
+
+1. ブラウザに [Tampermonkey](https://www.tampermonkey.net/) を入れる
+2. [NovelAI-Explore-Excel-Favorites-Saver.js](./NovelAI-Explore-Excel-Favorites-Saver.js) を開き、「Copy raw file」ボタンを押す
+3. ブラウザの Tampermonkeyアイコン から「新規スクリプトを追加」を押す
+4. 最初から入っている中身をすべて消して、先ほどコピーしたクリップボードを貼り付けて保存
 
 ## 注意事項
 

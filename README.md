@@ -1,6 +1,7 @@
 # NovelAI Explore → Excel お気に入り保存
 
 NovelAI の Explore（画像ギャラリー）で気に入った投稿を保存していき、1つの Excel ファイル（.xlsx）にまとめて出力する Tampermonkey 用ユーザースクリプトです。
+自分が欲しいから準備しました。
 
 > ⚠️ 非公式ツールです。NovelAI（Anlatan）とは関係ありません。<br>
 > ⚠️ コードは全て生成AI（Claude）によって生成しています。

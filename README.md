@@ -13,6 +13,10 @@ NovelAI の Explore（画像ギャラリー）で気に入った投稿を保存�
 - 「一覧」から保存済みの確認・削除・メモの追加
 - JSON でバックアップ／復元
 
+## スクリーンショット
+
+<img width="30%" height="30%" alt="001" src="https://github.com/user-attachments/assets/5990de23-db01-41ed-bdc2-bfc97b0c137a" />　<img width="30%" height="30%" alt="002" src="https://github.com/user-attachments/assets/7b49efbf-be2d-483b-ab3f-4a277d29dbbf" />　<img width="30%" height="30%" alt="003" src="https://github.com/user-attachments/assets/f515ba56-bc73-451e-b146-425e1bde742e" />
+
 ## インストール
 
 1. ブラウザに [Tampermonkey](https://www.tampermonkey.net/) を入れる

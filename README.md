@@ -16,7 +16,7 @@ NovelAI の Explore（画像ギャラリー）で気に入った投稿を保存�
 ## インストール
 
 1. ブラウザに [Tampermonkey](https://www.tampermonkey.net/) を入れる
-2. [novelai-explore-to-excel.user.js](./novelai-explore-to-excel.user.js) を開き、「Raw」ボタンを押す
+2. [NovelAI-Explore-Excel-Favorites-Saver.js](./NovelAI-Explore-Excel-Favorites-Saver.js) を開き、「Raw」ボタンを押す
 3. Tampermonkey のインストール画面が出るので「インストール」
 
 ## 注意事項
